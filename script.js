@@ -39,8 +39,7 @@ const revealSelectors = [
     '.card',
     '.galeria .item',
     '.skills-grid .skill',
-    '.contact-list .contact-item',
-    '.footer-wrap'
+    '.contact-list .contact-item'
 ];
 
 const revealTargets = document.querySelectorAll(revealSelectors.join(', '));
